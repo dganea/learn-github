@@ -10,4 +10,6 @@ my first test repository
 
 // Change #1 for the branch created at 1242
 
+// Change #2 for the branch created at 1249
+
 
