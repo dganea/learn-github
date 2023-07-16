@@ -7,3 +7,13 @@ my first test repository
 // another change made at 11:48
 
 // another change made at 12:30
+
+// Change #1 for the branch created at 1242
+
+// Change #2 for the branch created at 1249
+
+// Change #3 for the branch created at 1250
+
+// Change #4 for the branch created at 1252
+
+
